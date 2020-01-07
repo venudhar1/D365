@@ -1,4 +1,3 @@
-# D365
 # Dynamics 365 Build Tools
 
 ## Marketplace
