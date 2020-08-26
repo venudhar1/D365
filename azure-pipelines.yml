@@ -20,6 +20,7 @@ steps:
 
 - powershell: |
     echo "demo test"
+    touch atrifact.zip
  
 - task: PublishBuildArtifacts@1
   inputs:
